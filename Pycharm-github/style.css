@@ -1,0 +1,36 @@
+{font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #c3ecb2, #7dd87d);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+    background: white;
+    margin: 50px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    color: #4CAF50;
+}
+
+form input, form textarea {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
